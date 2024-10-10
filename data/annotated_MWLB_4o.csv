@@ -1,0 +1,817 @@
+metaphor_category,sentence,metaphorical_subsets,model_output,L&J Metaphor(s) – Identified,L&J Metaphor(s) – Correct Basic Meanings,Additional Annotations,Additional Annotations – Metaphorical,Additional Annotations – Correct Basic Meanings
+personification,His religion tells him that he cannot drink fine French wines.,['religion tells'],"- His: NO (possessive pronoun, basic meaning is the same)
+- religion: NO (noun, basic meaning is the same)
+- tells: YES (verb, more basic meaning refers to communicating information directly)
+- him: NO (pronoun, basic meaning is the same)
+- that: NO (conjunction, basic meaning is the same)
+- he: NO (pronoun, basic meaning is the same)
+- cannot: NO (modal verb, basic meaning is the same)
+- drink: NO (verb, basic meaning is the same)
+- fine: YES (adjective, more basic meaning refers to being of high quality or thin)
+- French: NO (adjective, basic meaning is the same)
+- wines: NO (noun, basic meaning is the same)",1,0,1,1.0,0.0
+understanding-is-seeing,"Shallow arguments are practically worthless, since they don't show us very much.","['Shallow', 'show']","""Shallow arguments are practically worthless, since they don't show us very much.""
+
+- Shallow: YES (adjective, more basic meaning refers to a small depth, like shallow water)
+- arguments: NO (noun, basic meaning is the same)
+- are: NO (verb, basic meaning is the same)
+- practically: YES (adverb, more basic meaning refers to being practical or useful)
+- worthless: NO (adjective, basic meaning is the same)
+- since: NO (conjunction, basic meaning is the same)
+- they: NO (pronoun, basic meaning is the same)
+- don't: NO (contraction of ""do not,"" basic meaning is the same)
+- show: NO (verb, basic meaning is the same)
+- us: NO (pronoun, basic meaning is the same)
+- very: NO (adverb, basic meaning is the same)
+- much: NO (adjective/adverb, basic meaning is the same)",0,0,1,0.0,0.0
+birth metaphors,He conceived a brilliant theory of molecular motion.,['conceived'],"- He: NO (pronoun, basic meaning is the same)
+- conceived: YES (verb, more basic meaning refers to becoming pregnant or forming an idea in a more general sense)
+- a: NO (article, basic meaning is the same)
+- brilliant: YES (adjective, more basic meaning refers to something very bright or shining)
+- theory: NO (noun, basic meaning is the same)
+- of: NO (preposition, basic meaning is the same)
+- molecular: NO (adjective, basic meaning is the same)
+- motion: NO (noun, basic meaning is the same)",1,1,0,,
+birth metaphors,Universities are incubators for new ideas.,['incubators'],"""Universities are incubators for new ideas.""
+
+- Universities: NO (noun, basic meaning is the same)
+- are: NO (verb, basic meaning is the same)
+- incubators: YES (noun, more basic meaning refers to a device used to keep eggs warm until they hatch)
+- for: NO (preposition, basic meaning is the same)
+- new: NO (adjective, basic meaning is the same)
+- ideas: NO (noun, basic meaning is the same)",1,1,0,,
+the-place-for-the-institution,Hollywood isn't what it used to be.,['Hollywood'],"- Hollywood: YES (noun, more basic meaning refers to the district in Los Angeles known for the film industry)
+- isn't: NO (contraction of ""is not,"" basic meaning is the same)
+- what: NO (pronoun, basic meaning is the same)
+- it: NO (pronoun, basic meaning is the same)
+- used: YES (verb, more basic meaning refers to the act of utilizing something)
+- to: NO (preposition, basic meaning is the same)
+- be: NO (verb, basic meaning is the same)",1,1,1,0.0,0.0
+theories-(and-arguments)-are-buildings,They exploded his latest theory.,['exploded'],"""They exploded his latest theory.""
+- They: NO (pronoun, basic meaning is the same)
+- exploded: YES (verb, more basic meaning refers to a physical explosion)
+- his: NO (possessive pronoun, basic meaning is the same)
+- latest: NO (adjective, basic meaning is the same)
+- theory: NO (noun, basic meaning is the same)",1,1,0,,
+the-mind-is-an-object,You have to handle him with care since his wife's death.,['handle him with care'],"- You: NO (pronoun, basic meaning is the same)
+- have: NO (verb, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- handle: YES (verb, more basic meaning refers to physically touching or managing something)
+- him: NO (pronoun, basic meaning is the same)
+- with: NO (preposition, basic meaning is the same)
+- care: YES (noun, more basic meaning refers to the provision of what is necessary for the health, welfare, maintenance, and protection of someone or something)
+- since: NO (preposition, basic meaning is the same)
+- his: NO (possessive pronoun, basic meaning is the same)
+- wife's: NO (possessive noun, basic meaning is the same)
+- death: NO (noun, basic meaning is the same)",1,1,1,0.0,1.0
+producer-for-product,I hate to read Heidegger.,['Heidegger'],"- I: NO (pronoun, basic meaning is the same)
+- hate: NO (verb, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- read: NO (verb, basic meaning is the same)
+- Heidegger: YES (proper noun, more basic meaning refers to the person Martin Heidegger, a German philosopher, rather than his works)",1,1,0,,
+the-mind-is-a-machine,We're still trying to grind out the solution to this equation.,['grind out'],"""We're still trying to grind out the solution to this equation.""
+
+- We: NO (pronoun, basic meaning is the same)
+- 're: NO (contraction of ""are"", basic meaning is the same)
+- still: NO (adverb, basic meaning is the same)
+- trying: NO (verb, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- grind: YES (verb, more basic meaning refers to crushing or pulverizing something)
+- out: NO (adverb, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- solution: YES (noun, more basic meaning refers to a liquid mixture)
+- to: NO (preposition, basic meaning is the same)
+- this: NO (demonstrative pronoun, basic meaning is the same)
+- equation: NO (noun, basic meaning is the same)",1,1,1,1.0,1.0
+health-and-life-are-up;-sickness-and-death-are-down,He's in top shape.,['top'],"- He's: NO (contraction of ""he is,"" basic meaning is the same)
+- in: NO (preposition, basic meaning is the same)
+- top: YES (adjective, more basic meaning refers to the highest point or part of something)
+- shape: YES (noun, more basic meaning refers to the physical form or outline of an object)",1,1,0,,
+love-is-a-physical-force,They gravitated to each other immediately.,['gravitated'],"""They gravitated to each other immediately.""
+
+- They: NO (pronoun, basic meaning is the same)
+- gravitated: YES (verb, more basic meaning refers to the physical force of gravity causing objects to move towards each other)
+- to: NO (preposition, basic meaning is the same)
+- each: NO (pronoun, basic meaning is the same)
+- other: NO (pronoun, basic meaning is the same)
+- immediately: NO (adverb, basic meaning is the same)",1,1,0,,
+activities-are-containers,I put a lot of energy into washing the windows.,['put a lot of energy into'],"""I put a lot of energy into washing the windows.""
+
+- I: NO (pronoun, basic meaning is the same)
+- put: NO (verb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- lot: YES (noun, more basic meaning refers to a piece of land or a large number of items)
+- of: NO (preposition, basic meaning is the same)
+- energy: YES (noun, more basic meaning refers to the physical property transferred to perform work)
+- into: NO (preposition, basic meaning is the same)
+- washing: NO (verb, basic meaning is the same)
+- the: NO (article, basic meaning is the same)
+- windows: NO (noun, basic meaning is the same)",0,0,1,1.0,1.0
+"an-argument-is-a-journey, understanding-is-seeing",Notice that X does not follow from Y without added assumptions.,['Notice'],"Sure, let's analyze the text:
+
+""Notice that X does not follow from Y without added assumptions.""
+
+- Notice: YES (verb, more basic meaning refers to perceiving something with the senses, especially sight)
+- that: NO (conjunction, basic meaning is the same)
+- X: NO (variable, basic meaning is the same)
+- does: NO (verb, basic meaning is the same)
+- not: NO (adverb, basic meaning is the same)
+- follow: YES (verb, more basic meaning refers to moving or traveling behind someone or something)
+- from: NO (preposition, basic meaning is the same)
+- Y: NO (variable, basic meaning is the same)
+- without: NO (preposition, basic meaning is the same)
+- added: YES (adjective, more basic meaning refers to something that has been put together with something else)
+- assumptions: YES (noun, more basic meaning refers to something taken for granted or accepted as true without proof)
+
+So, the words with a more basic contemporary meaning in other contexts are:
+- Notice
+- follow
+- added
+- assumptions",1,1,1,0.0,1.0
+inflation-is-an-entity,Buying land is the best way of dealing with inflation.,['dealing with inflation'],"- Buying: NO (verb, basic meaning is the same)
+- land: NO (noun, basic meaning is the same)
+- is: NO (verb, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- best: NO (adjective, basic meaning is the same)
+- way: NO (noun, basic meaning is the same)
+- of: NO (preposition, basic meaning is the same)
+- dealing: YES (verb, more basic meaning refers to distributing cards in a game)
+- with: NO (preposition, basic meaning is the same)
+- inflation: NO (noun, basic meaning is the same)",1,0,0,,
+conscious-is-up;-unconscious-is-down,He dropped off to sleep.,['dropped'],"- He: NO (pronoun, basic meaning is the same)
+- dropped: YES (verb, more basic meaning refers to letting something fall)
+- off: NO (preposition, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- sleep: NO (noun, basic meaning is the same)",1,1,0,,
+race-as-object,Are you going to the race?,['going to'],"- Are: NO (verb, basic meaning is the same)
+- you: NO (pronoun, basic meaning is the same)
+- going: NO (verb, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- race: YES (noun, more basic meaning refers to a competition of speed)",1,1,0,,
+an-argument-is-a-building,"With the groundwork you've got, you can construct a pretty strong argument.","['groundwork', 'construct', 'strong']","""With the groundwork you've got, you can construct a pretty strong argument.""
+
+- With: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- groundwork: YES (noun, more basic meaning refers to the physical preparation of a site for construction)
+- you've: NO (contraction of ""you have,"" basic meaning is the same)
+- got: NO (verb, basic meaning is the same)
+- you: NO (pronoun, basic meaning is the same)
+- can: NO (modal verb, basic meaning is the same)
+- construct: YES (verb, more basic meaning refers to building something physical)
+- a: NO (indefinite article, basic meaning is the same)
+- pretty: YES (adverb, more basic meaning refers to attractiveness)
+- strong: NO (adjective, basic meaning is the same)
+- argument: NO (noun, basic meaning is the same)",0,0,1,1.0,1.0
+the-place-for-the-event,Let's not let Thailand become another Vietnam.,['Vietnam'],"""Let's not let Thailand become another Vietnam.""
+
+- Let's: NO (contraction of ""let us,"" basic meaning is the same)
+- not: NO (adverb, basic meaning is the same)
+- let: NO (verb, basic meaning is the same)
+- Thailand: NO (proper noun, basic meaning is the same)
+- become: NO (verb, basic meaning is the same)
+- another: NO (adjective, basic meaning is the same)
+- Vietnam: YES (proper noun, more basic meaning refers to the country, whereas in this context it refers to a situation similar to the Vietnam War)",1,1,0,,
+understanding-is-seeing,Now I've got the whole picture.,['whole picture'],"""Now I've got the whole picture.""
+- Now: NO (adverb, basic meaning is the same)
+- I've: NO (contraction of ""I have,"" basic meaning is the same)
+- got: YES (verb, more basic meaning refers to obtaining or receiving something)
+- the: NO (definite article, basic meaning is the same)
+- whole: NO (adjective, basic meaning is the same)
+- picture: YES (noun, more basic meaning refers to an image or photograph)",1,1,1,1.0,1.0
+more-is-up;-less-is-down,He is underage.,['under'],"- He: NO (pronoun, basic meaning is the same)
+- is: NO (verb, basic meaning is the same)
+- underage: YES (adjective, more basic meaning refers to being below the legal age for certain activities)",1,0,0,,
+high-status-is-up;-low-status-is-down,He's at the bottom of the social hierarchy.,['bottom'],"- He's: NO (contraction of ""he is,"" basic meaning is the same)
+- at: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- bottom: YES (noun, more basic meaning refers to the lowest part of something physical, like the bottom of a container)
+- of: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- social: YES (adjective, more basic meaning refers to interactions between people)
+- hierarchy: YES (noun, more basic meaning refers to a system of organization with levels, often used in a more concrete sense like in a company or organization)",1,1,1,0.0,1.0
+ideas-are-plants,She has a fertile imagination.,['fertile'],"- She: NO (pronoun, basic meaning is the same)
+- has: NO (verb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- fertile: YES (adjective, more basic meaning refers to the ability to produce abundant vegetation or crops)
+- imagination: NO (noun, basic meaning is the same)",1,1,0,,
+birth metaphors,He hatched a clever scheme.,['hatched'],"- He: NO (pronoun, basic meaning is the same)
+- hatched: YES (verb, more basic meaning refers to an egg breaking open and a young animal coming out)
+- a: NO (article, basic meaning is the same)
+- clever: NO (adjective, basic meaning is the same)
+- scheme: YES (noun, more basic meaning refers to a plan or arrangement, often with a negative connotation)",1,1,1,0.0,1.0
+life-is-a-container,I've had a full life.,['full'],"- I: NO (pronoun, basic meaning is the same)
+- 've (have): NO (contraction of ""have,"" basic meaning is the same)
+- had: NO (verb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- full: YES (adjective, more basic meaning refers to being filled to capacity)
+- life: NO (noun, basic meaning is the same)",1,1,0,,
+activities-are-containers,I get a lot of satisfaction out of washing windows.,['get a lot of satisfaction out of'],"""I get a lot of satisfaction out of washing windows.""
+
+- I: NO (pronoun, basic meaning is the same)
+- get: YES (verb, more basic meaning refers to obtaining or receiving something tangible)
+- a: NO (article, basic meaning is the same)
+- lot: YES (noun, more basic meaning refers to a large number or amount of something tangible)
+- of: NO (preposition, basic meaning is the same)
+- satisfaction: YES (noun, more basic meaning refers to the fulfillment of a need or desire, which can be more abstract)
+- out: NO (preposition, basic meaning is the same)
+- of: NO (preposition, basic meaning is the same)
+- washing: NO (verb, basic meaning is the same)
+- windows: NO (noun, basic meaning is the same)",0,0,1,0.0,1.0
+physical-and-emotional-states-are-entities-within-a-person,My cold has gone from my head to my chest.,['gone from my head to my chest'],"- My: NO (possessive pronoun, basic meaning is the same)
+- cold: YES (noun, more basic meaning refers to low temperature)
+- has: NO (verb, basic meaning is the same)
+- gone: NO (verb, basic meaning is the same)
+- from: NO (preposition, basic meaning is the same)
+- my: NO (possessive pronoun, basic meaning is the same)
+- head: NO (noun, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- my: NO (possessive pronoun, basic meaning is the same)
+- chest: NO (noun, basic meaning is the same)",0,0,1,1.0,1.0
+ideas-are-cutting-instruments,She cut his argument to ribbons.,"['cut', 'to ribbons']","- She: NO (pronoun, basic meaning is the same)
+- cut: YES (verb, more basic meaning refers to using a sharp tool to divide something)
+- his: NO (possessive pronoun, basic meaning is the same)
+- argument: NO (noun, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- ribbons: YES (noun, more basic meaning refers to a long, narrow strip of fabric)",1,1,0,,
+controller-for-controlled,Nixon bombed Hanoi.,['Nixon'],"- Nixon: NO (proper noun, basic meaning is the same)
+- bombed: YES (verb, more basic meaning refers to dropping bombs on a target)
+- Hanoi: NO (proper noun, basic meaning is the same)",0,0,1,0.0,1.0
+argument-is-war,His criticisms were right on target.,['right on target'],"- His: NO (possessive pronoun, basic meaning is the same)
+- criticisms: NO (noun, basic meaning is the same)
+- were: NO (verb, basic meaning is the same)
+- right: YES (adjective, more basic meaning refers to direction or correctness)
+- on: NO (preposition, basic meaning is the same)
+- target: YES (noun, more basic meaning refers to an object aimed at in shooting or archery)",1,0,0,,
+happy-is-up;-sad-is-down,I fell into a depression.,['fell'],"- I: NO (pronoun, basic meaning is the same)
+- fell: NO (verb, basic meaning is the same)
+- into: NO (preposition, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- depression: YES (noun, more basic meaning refers to a physical low area in a surface)",0,0,1,1.0,1.0
+ideas-are-fashions,What are the new trends in English criticism?,['trends'],"""What are the new trends in English criticism?""
+
+- What: NO (pronoun, basic meaning is the same)
+- are: NO (verb, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- new: NO (adjective, basic meaning is the same)
+- trends: YES (noun, more basic meaning refers to general directions in which something is developing or changing, often in fashion or behavior)
+- in: NO (preposition, basic meaning is the same)
+- English: NO (adjective, basic meaning is the same)
+- criticism: YES (noun, more basic meaning refers to the act of expressing disapproval and noting the problems or faults of a person or thing)",1,1,1,1.0,1.0
+life-is-a-gambling-game,That's the luck of the draw.,['the luck of the draw'],"""That's the luck of the draw.""
+- That’s: NO (contraction of ""that is,"" basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- luck: NO (noun, basic meaning is the same)
+- of: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- draw: YES (noun, more basic meaning refers to pulling something out, such as drawing a card from a deck)",1,1,0,,
+seeing-is-touching;-eyes-are-limbs,I can't take my eyes off her.,"['take', 'off']","""I can't take my eyes off her.""
+
+- I: NO (pronoun, basic meaning is the same)
+- can't: NO (contraction of ""cannot,"" basic meaning is the same)
+- take: YES (verb, more basic meaning refers to physically grasping or holding something)
+- my: NO (possessive pronoun, basic meaning is the same)
+- eyes: NO (noun, basic meaning is the same)
+- off: YES (preposition, more basic meaning refers to physical separation or removal)
+- her: NO (pronoun, basic meaning is the same)",1,1,0,,
+object-used-for-user,The buses are on strike.,['buses'],"- The: NO (definite article, basic meaning is the same)
+- buses: NO (noun, basic meaning is the same)
+- are: NO (verb, basic meaning is the same)
+- on: NO (preposition, basic meaning is the same)
+- strike: YES (noun, more basic meaning refers to hitting something)",0,0,1,1.0,1.0
+states-as-containers,We're out of trouble now.,['out of'],"""We're out of trouble now.""
+
+- We: NO (pronoun, basic meaning is the same)
+- 're (are): NO (verb, basic meaning is the same)
+- out: YES (preposition, more basic meaning refers to being outside or away from a place)
+- of: NO (preposition, basic meaning is the same)
+- trouble: NO (noun, basic meaning is the same)
+- now: NO (adverb, basic meaning is the same)",1,1,0,,
+physical-and-emotional-states-are-entities-within-a-person,His pains went away.,['went away'],"- His: NO (possessive pronoun, basic meaning is the same)
+- pains: YES (noun, more basic meaning refers to physical discomfort)
+- went: NO (verb, basic meaning is the same)
+- away: NO (adverb, basic meaning is the same)",0,0,1,0.0,1.0
+significant-is-big,That was only a little white lie.,['little'],"- That: NO (pronoun, basic meaning is the same)
+- was: NO (verb, basic meaning is the same)
+- only: NO (adverb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- little: NO (adjective, basic meaning is the same)
+- white: NO (adjective, basic meaning is the same)
+- lie: YES (noun, more basic meaning refers to a false statement)",0,0,1,0.0,1.0
+wealth-is-a-hidden-object,He's searching for wealth.,['searching for'],"- He’s: NO (contraction of ""he is,"" basic meaning is the same)
+- searching: YES (verb, more basic meaning refers to physically looking for something)
+- for: NO (preposition, basic meaning is the same)
+- wealth: YES (noun, more basic meaning refers to an abundance of valuable possessions or money)",1,1,1,0.0,1.0
+ideas-are-people,The theory of relativity gave birth to an enormous number of ideas in physics.,['gave birth to'],"""The theory of relativity gave birth to an enormous number of ideas in physics.""
+
+- The: NO (definite article, basic meaning is the same)
+- theory: YES (noun, more basic meaning refers to a supposition or a system of ideas intended to explain something)
+- of: NO (preposition, basic meaning is the same)
+- relativity: NO (noun, basic meaning is the same)
+- gave: YES (verb, more basic meaning refers to the act of transferring possession of something to someone)
+- birth: YES (noun, more basic meaning refers to the process of being born)
+- to: NO (preposition, basic meaning is the same)
+- an: NO (indefinite article, basic meaning is the same)
+- enormous: NO (adjective, basic meaning is the same)
+- number: NO (noun, basic meaning is the same)
+- of: NO (preposition, basic meaning is the same)
+- ideas: NO (noun, basic meaning is the same)
+- in: NO (preposition, basic meaning is the same)
+- physics: NO (noun, basic meaning is the same)",1,1,1,0.0,1.0
+controller-for-controlled,Ozawa gave a terrible concert last night.,['Ozawa'],"- Ozawa: NO (proper noun, basic meaning is the same)
+- gave: YES (verb, more basic meaning refers to physically handing something over)
+- a: NO (article, basic meaning is the same)
+- terrible: NO (adjective, basic meaning is the same)
+- concert: NO (noun, basic meaning is the same)
+- last: NO (adjective, basic meaning is the same)
+- night: NO (noun, basic meaning is the same)",0,0,1,1.0,1.0
+ideas-are-people,Whose brainchild was that?,['brainchild'],"- Whose: NO (possessive pronoun, basic meaning is the same)
+- brainchild: YES (noun, more basic meaning would refer to a literal child, whereas here it refers to an idea or invention)
+- was: NO (verb, basic meaning is the same)
+- that: NO (demonstrative pronoun, basic meaning is the same)",1,1,0,,
+ideas-are-cutting-instruments,That was a cutting remark.,['cutting'],"- That: NO (demonstrative pronoun, basic meaning is the same)
+- was: NO (verb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- cutting: YES (adjective, more basic meaning refers to the action of cutting with a sharp object)
+- remark: NO (noun, basic meaning is the same)",1,1,0,,
+activities-are-containers,How did Jerry get out of washing the windows?,['get out of'],"- How: NO (adverb, basic meaning is the same)
+- did: NO (auxiliary verb, basic meaning is the same)
+- Jerry: NO (proper noun, basic meaning is the same)
+- get: YES (verb, more basic meaning refers to obtaining or receiving something)
+- out: YES (preposition, more basic meaning refers to moving from inside to outside)
+- of: NO (preposition, basic meaning is the same)
+- washing: YES (verb, more basic meaning refers to cleaning something with water and soap)
+- the: NO (definite article, basic meaning is the same)
+- windows: NO (noun, basic meaning is the same)",1,1,1,0.0,1.0
+physical-and-emotional-states-are-entities-within-a-person,Hot tea and honey will get rid of your cough.,['get rid of'],"""Hot tea and honey will get rid of your cough.""
+
+- Hot: NO (adjective, basic meaning is the same)
+- tea: NO (noun, basic meaning is the same)
+- and: NO (conjunction, basic meaning is the same)
+- honey: NO (noun, basic meaning is the same)
+- will: NO (auxiliary verb, basic meaning is the same)
+- get: YES (verb, more basic meaning refers to obtaining or receiving something)
+- rid: YES (verb, more basic meaning refers to freeing or removing something)
+- of: NO (preposition, basic meaning is the same)
+- your: NO (possessive pronoun, basic meaning is the same)
+- cough: NO (noun, basic meaning is the same)",1,1,0,,
+physical-and-emotional-states-are-entities-within-a-person,He could barely contain his joy.,['contain'],"- He: NO (pronoun, basic meaning is the same)
+- could: NO (modal verb, basic meaning is the same)
+- barely: NO (adverb, basic meaning is the same)
+- contain: YES (verb, more basic meaning refers to holding something physically within limits)
+- his: NO (possessive pronoun, basic meaning is the same)
+- joy: NO (noun, basic meaning is the same)",1,1,0,,
+theories-(and-arguments)-are-buildings,Here are some more facts to shore up the theory.,['shore up'],"""Here are some more facts to shore up the theory.""
+
+- Here: NO (adverb, basic meaning is the same)
+- are: NO (verb, basic meaning is the same)
+- some: NO (determiner, basic meaning is the same)
+- more: NO (adjective, basic meaning is the same)
+- facts: NO (noun, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- shore: YES (verb, more basic meaning refers to supporting or reinforcing a physical structure, like a shore or a wall)
+- up: NO (adverb, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- theory: NO (noun, basic meaning is the same)",1,1,0,,
+an-argument-is-a-journey,"When we get to the next point, we shall see that philosophy is dead.",['When we get to the next point'],"""When we get to the next point, we shall see that philosophy is dead.""
+
+- When: NO (conjunction, basic meaning is the same)
+- we: NO (pronoun, basic meaning is the same)
+- get: YES (verb, more basic meaning refers to obtaining or receiving something)
+- to: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- next: NO (adjective, basic meaning is the same)
+- point: YES (noun, more basic meaning refers to a sharp end or a specific location)
+- we: NO (pronoun, basic meaning is the same)
+- shall: NO (modal verb, basic meaning is the same)
+- see: YES (verb, more basic meaning refers to perceiving with the eyes)
+- that: NO (conjunction, basic meaning is the same)
+- philosophy: NO (noun, basic meaning is the same)
+- is: NO (verb, basic meaning is the same)
+- dead: YES (adjective, more basic meaning refers to no longer being alive)",1,1,1,1.0,1.0
+ideas-are-food,He devoured the book.,['devoured'],"- He: NO (pronoun, basic meaning is the same)
+- devoured: YES (verb, more basic meaning refers to eating food hungrily or quickly)
+- the: NO (definite article, basic meaning is the same)
+- book: NO (noun, basic meaning is the same)",1,1,0,,
+high-status-is-up;-low-status-is-down,He's at the peak of his career.,['peak'],"- He’s: NO (contraction of ""he is"", basic meaning is the same)
+- at: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- peak: YES (noun, more basic meaning refers to the pointed top of a mountain)
+- of: NO (preposition, basic meaning is the same)
+- his: NO (possessive pronoun, basic meaning is the same)
+- career: YES (noun, more basic meaning refers to a person's course or progress through life or a distinct portion of life)",1,1,1,1.0,0.0
+activities-are-containers,"In washing the window, I splashed water all over the floor.",['In'],"""In washing the window, I splashed water all over the floor.""
+
+- In: NO (preposition, basic meaning is the same)
+- washing: NO (verb, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- window: NO (noun, basic meaning is the same)
+- I: NO (pronoun, basic meaning is the same)
+- splashed: NO (verb, basic meaning is the same)
+- water: NO (noun, basic meaning is the same)
+- all: NO (adverb, basic meaning is the same)
+- over: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- floor: NO (noun, basic meaning is the same)",0,0,0,,
+"an-argument-is-a-container, understanding-is-seeing","Since your argument isn't very clear, I can't see what you're getting at.","['clear', 'see']","""Since your argument isn't very clear, I can't see what you're getting at.""
+
+- Since: NO (conjunction, basic meaning is the same)
+- your: NO (possessive pronoun, basic meaning is the same)
+- argument: NO (noun, basic meaning is the same)
+- isn't: NO (contraction of ""is not,"" basic meaning is the same)
+- very: NO (adverb, basic meaning is the same)
+- clear: YES (adjective, more basic meaning refers to something being transparent or easy to see through)
+- I: NO (pronoun, basic meaning is the same)
+- can't: NO (contraction of ""cannot,"" basic meaning is the same)
+- see: YES (verb, more basic meaning refers to the physical act of perceiving with the eyes)
+- what: NO (pronoun, basic meaning is the same)
+- you're: NO (contraction of ""you are,"" basic meaning is the same)
+- getting: YES (verb, more basic meaning refers to obtaining or receiving something)
+- at: NO (preposition, basic meaning is the same)",1,1,1,1.0,1.0
+emergence,He dropped from exhaustion.,['from'],"- He: NO (pronoun, basic meaning is the same)
+- dropped: YES (verb, more basic meaning refers to letting something fall)
+- from: NO (preposition, basic meaning is the same)
+- exhaustion: NO (noun, basic meaning is the same)",1,1,0,,
+love-is-a-patient,It's a tired affair.,['tired'],"""It's a tired affair.""
+
+- It’s: NO (contraction of ""it is,"" basic meaning is the same)
+- a: NO (indefinite article, basic meaning is the same)
+- tired: YES (adjective, more basic meaning refers to the physical state of needing rest)
+- affair: YES (noun, more basic meaning refers to an event or a matter of personal or public interest)",1,1,1,1.0,1.0
+theories-(and-arguments)-are-buildings,The theory will stand or fall on the strength of that argument.,"['stand', 'fall', 'strength']","""The theory will stand or fall on the strength of that argument.""
+
+- The: NO (definite article, basic meaning is the same)
+- theory: YES (noun, more basic meaning refers to a supposition or a system of ideas intended to explain something)
+- will: NO (auxiliary verb, basic meaning is the same)
+- stand: YES (verb, more basic meaning refers to being in an upright position on the feet)
+- or: NO (conjunction, basic meaning is the same)
+- fall: YES (verb, more basic meaning refers to moving downward, typically rapidly and freely without control)
+- on: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- strength: YES (noun, more basic meaning refers to the quality or state of being physically strong)
+- of: NO (preposition, basic meaning is the same)
+- that: NO (demonstrative pronoun, basic meaning is the same)
+- argument: NO (noun, basic meaning is the same)",1,1,1,0.0,1.0
+having-control-or-force-is-up;-being-subject-to-control-or-force-is-down,He's at the height of his power.,['height'],"- He's: NO (contraction of ""he is,"" basic meaning is the same)
+- at: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- height: YES (noun, more basic meaning refers to the measurement of how tall something is)
+- of: NO (preposition, basic meaning is the same)
+- his: NO (possessive pronoun, basic meaning is the same)
+- power: YES (noun, more basic meaning refers to physical strength or the ability to do something)",1,1,1,1.0,1.0
+conduit,Try to pack more thought into the wrong words.,"['pack', 'into']","""Try to pack more thought into the wrong words.""
+
+- Try: NO (verb, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- pack: YES (verb, more basic meaning refers to putting items into a container)
+- more: NO (adjective, basic meaning is the same)
+- thought: YES (noun, more basic meaning refers to the act of thinking)
+- into: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- wrong: YES (adjective, more basic meaning refers to something incorrect or not right)
+- words: NO (noun, basic meaning is the same)",0,0,1,0.0,1.0
+the-eyes-are-containers-for-the-emotions,She couldn't get the fear out of her eyes.,"['get', 'out']","- She: NO (pronoun, basic meaning is the same)
+- couldn't: NO (contraction of ""could not,"" basic meaning is the same)
+- get: YES (verb, more basic meaning refers to obtaining or receiving something)
+- the: NO (definite article, basic meaning is the same)
+- fear: NO (noun, basic meaning is the same)
+- out: NO (preposition, basic meaning is the same)
+- of: NO (preposition, basic meaning is the same)
+- her: NO (possessive pronoun, basic meaning is the same)
+- eyes: NO (noun, basic meaning is the same)",0,0,0,,
+states-as-containers,He entered a state of euphoria.,['entered'],"- He: NO (pronoun, basic meaning is the same)
+- entered: YES (verb, more basic meaning refers to physically going into a place)
+- a: NO (article, basic meaning is the same)
+- state: YES (noun, more basic meaning refers to a political entity or condition of being)
+- of: NO (preposition, basic meaning is the same)
+- euphoria: NO (noun, basic meaning is the same)",1,1,1,1.0,0.0
+emergence,His mother nearly went crazy from loneliness.,['from'],"Sure, let's analyze the text ""His mother nearly went crazy from loneliness.""
+
+- His: NO (possessive pronoun, basic meaning is the same)
+- mother: NO (noun, basic meaning is the same)
+- nearly: NO (adverb, basic meaning is the same)
+- went: NO (verb, basic meaning is the same)
+- crazy: YES (adjective, more basic meaning refers to being mentally deranged or insane)
+- from: NO (preposition, basic meaning is the same)
+- loneliness: NO (noun, basic meaning is the same)",0,0,1,0.0,1.0
+emotional-effect-is-physical-contact,His mother's death hit him hard.,"['hit', 'hard']","- His: NO (possessive pronoun, basic meaning is the same)
+- mother's: NO (noun, basic meaning is the same)
+- death: NO (noun, basic meaning is the same)
+- hit: YES (verb, more basic meaning refers to a physical strike)
+- him: NO (pronoun, basic meaning is the same)
+- hard: YES (adjective, more basic meaning refers to a physical property of being solid or firm)",1,1,0,,
+personification,Inflation has outwitted the best economic minds in the country.,['has outwitted'],"""Inflation has outwitted the best economic minds in the country.""
+
+- Inflation: YES (noun, more basic meaning refers to the physical act of inflating something, like a balloon)
+- has: NO (verb, basic meaning is the same)
+- outwitted: YES (verb, more basic meaning refers to outsmarting someone in a direct, often physical, contest)
+- the: NO (definite article, basic meaning is the same)
+- best: NO (adjective, basic meaning is the same)
+- economic: NO (adjective, basic meaning is the same)
+- minds: YES (noun, more basic meaning refers to the organ in the head responsible for thought)
+- in: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- country: NO (noun, basic meaning is the same)",1,0,1,1.0,1.0
+ideas-are-commodities,I wouldn't give a plugged nickel for that idea.,['give a plugged nickel'],"""I wouldn't give a plugged nickel for that idea.""
+
+- I: NO (pronoun, basic meaning is the same)
+- wouldn't: NO (contraction of ""would not,"" basic meaning is the same)
+- give: NO (verb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- plugged: YES (adjective, more basic meaning refers to something physically blocked or filled)
+- nickel: NO (noun, basic meaning is the same, referring to a coin)
+- for: NO (preposition, basic meaning is the same)
+- that: NO (demonstrative pronoun, basic meaning is the same)
+- idea: NO (noun, basic meaning is the same)",0,0,1,1.0,1.0
+personification,The Michelson-Morley experiment gave birth to a new physical theory.,['Michelson-Morley experiment gave birth to'],"""The Michelson-Morley experiment gave birth to a new physical theory.""
+
+- The: NO (definite article, basic meaning is the same)
+- Michelson-Morley: NO (proper noun, basic meaning is the same)
+- experiment: NO (noun, basic meaning is the same)
+- gave: NO (verb, basic meaning is the same)
+- birth: YES (noun, more basic meaning refers to the process of being born)
+- to: NO (preposition, basic meaning is the same)
+- a: NO (indefinite article, basic meaning is the same)
+- new: NO (adjective, basic meaning is the same)
+- physical: NO (adjective, basic meaning is the same)
+- theory: NO (noun, basic meaning is the same)",1,1,0,,
+inflation-is-an-entity,Inflation makes me sick.,['Inflation makes me sick'],"- Inflation: YES (noun, more basic meaning refers to the physical act of inflating something, like a balloon)
+- makes: NO (verb, basic meaning is the same)
+- me: NO (pronoun, basic meaning is the same)
+- sick: NO (adjective, basic meaning is the same)",1,1,0,,
+love-is-madness,I'm crazy about her.,['crazy'],"Sure, let's analyze the text ""I'm crazy about her.""
+
+- I: NO (pronoun, basic meaning is the same)
+- 'm (am): NO (verb, basic meaning is the same)
+- crazy: YES (adjective, more basic meaning refers to a state of mental instability)
+- about: NO (preposition, basic meaning is the same)
+- her: NO (pronoun, basic meaning is the same)
+
+So, the word ""crazy"" has a more basic contemporary meaning in other contexts.",1,1,0,,
+life-is-a-container,Get the most out of life.,['Get the most out of'],"""Get the most out of life.""
+- Get: NO (verb, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- most: YES (adjective, more basic meaning refers to the greatest in amount or degree)
+- out: NO (preposition, basic meaning is the same)
+- of: NO (preposition, basic meaning is the same)
+- life: YES (noun, more basic meaning refers to the condition that distinguishes animals and plants from inorganic matter)",0,0,1,0.0,1.0
+virtue-is-up;-depravity-is-down,She has high standards.,['high'],"- She: NO (pronoun, basic meaning is the same)
+- has: NO (verb, basic meaning is the same)
+- high: YES (adjective, more basic meaning refers to physical height)
+- standards: YES (noun, more basic meaning refers to a level of quality or attainment, often in a more concrete sense like measurements or flags)",1,1,1,0.0,1.0
+love-is-a-patient,"They have a strong, healthy marriage.","['strong, healthy']","""They have a strong, healthy marriage.""
+
+- They: NO (pronoun, basic meaning is the same)
+- have: NO (verb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- strong: YES (adjective, more basic meaning refers to physical strength)
+- healthy: YES (adjective, more basic meaning refers to physical health)
+- marriage: NO (noun, basic meaning is the same)",1,1,1,,
+health-and-life-are-up;-sickness-and-death-are-down,He came down with the flu.,['down'],"- He: NO (pronoun, basic meaning is the same)
+- came: NO (verb, basic meaning is the same)
+- down: YES (adverb, more basic meaning refers to a direction towards a lower place)
+- with: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- flu: NO (noun, basic meaning is the same)",1,1,0,,
+the-place-for-the-event,Pearl Harbor still has an effect on our foreign policy.,['Pearl Harbor'],"Sure, let's analyze the text ""Pearl Harbor still has an effect on our foreign policy.""
+
+- Pearl: NO (proper noun, basic meaning is the same)
+- Harbor: NO (proper noun, basic meaning is the same)
+- still: NO (adverb, basic meaning is the same)
+- has: NO (verb, basic meaning is the same)
+- an: NO (article, basic meaning is the same)
+- effect: YES (noun, more basic meaning refers to a change that is a result or consequence of an action or other cause, which is more concrete)
+- on: NO (preposition, basic meaning is the same)
+- our: NO (possessive pronoun, basic meaning is the same)
+- foreign: NO (adjective, basic meaning is the same)
+- policy: NO (noun, basic meaning is the same)
+
+So, the word ""effect"" is the only one in this context that has a more basic contemporary meaning in other contexts.",0,0,1,0.0,1.0
+high-status-is-up;-low-status-is-down,He has a little upward mobility.,['upward'],"- He: NO (pronoun, basic meaning is the same)
+- has: NO (verb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- little: NO (adjective, basic meaning is the same)
+- upward: YES (adjective, more basic meaning refers to a direction towards a higher place)
+- mobility: YES (noun, more basic meaning refers to the ability to move physically)",1,1,1,1.0,1.0
+identifying-causes,He did it out of anger.,['anger'],"- He: NO (pronoun, basic meaning is the same)
+- did: NO (verb, basic meaning is the same)
+- it: NO (pronoun, basic meaning is the same)
+- out: YES (preposition, more basic meaning refers to physical movement from inside to outside)
+- of: NO (preposition, basic meaning is the same)
+- anger: NO (noun, basic meaning is the same)",0,0,1,1.0,1.0
+life-is-a-gambling-game,That's my ace in the hole.,['ace in the hole'],"""That's my ace in the hole.""
+- That’s: NO (contraction of ""that is,"" basic meaning is the same)
+- my: NO (possessive pronoun, basic meaning is the same)
+- ace: YES (noun, more basic meaning refers to a playing card or a person who excels at something)
+- in: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- hole: YES (noun, more basic meaning refers to an opening or hollow place)",1,1,0,,
+setting-goals-and-motivating-actions,I'm changing my way of life so that I can find true happiness.,['find true happiness'],"Sure, let's analyze the text:
+
+""I'm changing my way of life so that I can find true happiness.""
+
+- I: NO (pronoun, basic meaning is the same)
+- 'm (am): NO (verb, basic meaning is the same)
+- changing: YES (verb, more basic meaning refers to making something different in a physical or tangible way)
+- my: NO (possessive pronoun, basic meaning is the same)
+- way: YES (noun, more basic meaning refers to a physical path or route)
+- of: NO (preposition, basic meaning is the same)
+- life: YES (noun, more basic meaning refers to the state of being alive)
+- so: NO (conjunction, basic meaning is the same)
+- that: NO (conjunction, basic meaning is the same)
+- I: NO (pronoun, basic meaning is the same)
+- can: NO (verb, basic meaning is the same)
+- find: NO (verb, basic meaning is the same)
+- true: YES (adjective, more basic meaning refers to being in accordance with fact or reality)
+- happiness: YES (noun, more basic meaning refers to a state of feeling pleasure or contentment)
+
+So, the words with a more basic contemporary meaning in other contexts are: changing, way, life, true, and happiness.",0,0,1,0.0,0.0
+identifying-causes,The pressure of his responsibilities caused his breakdown.,['pressure of his responsibilities'],"""The pressure of his responsibilities caused his breakdown.""
+
+- The: NO (definite article, basic meaning is the same)
+- pressure: YES (noun, more basic meaning refers to physical force exerted on an object)
+- of: NO (preposition, basic meaning is the same)
+- his: NO (possessive pronoun, basic meaning is the same)
+- responsibilities: YES (noun, more basic meaning refers to specific duties or tasks one is required to do)
+- caused: NO (verb, basic meaning is the same)
+- his: NO (possessive pronoun, basic meaning is the same)
+- breakdown: YES (noun, more basic meaning refers to a mechanical failure or collapse)",1,0,1,1.0,1.0
+love-is-war,He enlisted the aid of her friends.,['enlisted the aid'],"- He: NO (pronoun, basic meaning is the same)
+- enlisted: YES (verb, more basic meaning refers to enrolling in the military)
+- the: NO (definite article, basic meaning is the same)
+- aid: YES (noun, more basic meaning refers to help or assistance in a physical sense)
+- of: NO (preposition, basic meaning is the same)
+- her: NO (possessive pronoun, basic meaning is the same)
+- friends: NO (noun, basic meaning is the same)",1,1,1,0.0,1.0
+activities-are-containers,"Outside of washing the windows, what else did you do?",['Outside of'],"""Outside of washing the windows, what else did you do?""
+
+- Outside: YES (preposition, more basic meaning refers to the exterior of a place)
+- of: NO (preposition, basic meaning is the same)
+- washing: NO (verb, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- windows: NO (noun, basic meaning is the same)
+- what: NO (pronoun, basic meaning is the same)
+- else: NO (adverb, basic meaning is the same)
+- did: NO (verb, basic meaning is the same)
+- you: NO (pronoun, basic meaning is the same)
+- do: NO (verb, basic meaning is the same)",1,1,0,,
+life-is-a-container,Live your life to the fullest.,['to the fullest'],"""Live your life to the fullest.""
+- Live: YES (verb, more basic meaning refers to being alive or residing somewhere)
+- your: NO (possessive pronoun, basic meaning is the same)
+- life: NO (noun, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- fullest: YES (adjective, more basic meaning refers to being filled to capacity)",1,1,1,1.0,1.0
+life-is-a-gambling-game,He's bluffing.,['bluffing'],"- He: NO (pronoun, basic meaning is the same)
+- 's: NO (contraction of ""is"", basic meaning is the same)
+- bluffing: YES (verb, more basic meaning refers to a steep cliff or a form of deception in card games)",1,1,0,,
+ideas-are-fashions,That's an outdated idea.,['outdated'],"""That's an outdated idea.""
+- That: NO (pronoun, basic meaning is the same)
+- 's: NO (contraction of ""is"", basic meaning is the same)
+- an: NO (indefinite article, basic meaning is the same)
+- outdated: YES (adjective, more basic meaning refers to something being old or no longer in use)
+- idea: NO (noun, basic meaning is the same)",1,0,0,,
+the-mind-is-a-brittle-object,He broke under cross-examination.,['broke'],"- He: NO (pronoun, basic meaning is the same)
+- broke: YES (verb, more basic meaning refers to physically breaking something)
+- under: NO (preposition, basic meaning is the same)
+- cross-examination: YES (noun, more basic meaning refers to the act of questioning a witness in a legal context, but the term itself is specialized and not as basic as the individual words ""cross"" and ""examination"")",1,1,1,1.0,1.0
+love-is-war,He made an ally of her mother.,['made an ally'],"- He: NO (pronoun, basic meaning is the same)
+- made: YES (verb, more basic meaning refers to creating or constructing something)
+- an: NO (article, basic meaning is the same)
+- ally: YES (noun, more basic meaning refers to a person or group that cooperates with or helps another in a particular activity)
+- of: NO (preposition, basic meaning is the same)
+- her: NO (possessive pronoun, basic meaning is the same)
+- mother: NO (noun, basic meaning is the same)",1,0,1,1.0,1.0
+ideas-are-plants,It will take years for that idea to come to full flower.,['come to full flower'],"""It will take years for that idea to come to full flower.""
+
+- It: NO (pronoun, basic meaning is the same)
+- will: NO (auxiliary verb, basic meaning is the same)
+- take: NO (verb, basic meaning is the same)
+- years: NO (noun, basic meaning is the same)
+- for: NO (preposition, basic meaning is the same)
+- that: NO (demonstrative pronoun, basic meaning is the same)
+- idea: NO (noun, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- come: NO (verb, basic meaning is the same)
+- to: NO (preposition, basic meaning is the same)
+- full: NO (adjective, basic meaning is the same)
+- flower: YES (noun, more basic meaning refers to the reproductive structure in flowering plants)",1,1,0,,
+happy-is-up;-sad-is-down,That boosted my spirits.,['boosted'],"- That: NO (demonstrative pronoun, basic meaning is the same)
+- boosted: YES (verb, more basic meaning refers to physically lifting or increasing something)
+- my: NO (possessive pronoun, basic meaning is the same)
+- spirits: YES (noun, more basic meaning refers to supernatural beings or alcohol)",1,1,1,1.0,1.0
+wealth-is-a-hidden-object,He's flaunting his new-found wealth.,['new-found'],"- He’s: NO (contraction of ""he is,"" basic meaning is the same)
+- flaunting: YES (verb, more basic meaning refers to showing off something in a very obvious way)
+- his: NO (possessive pronoun, basic meaning is the same)
+- new-found: NO (adjective, basic meaning is the same)
+- wealth: NO (noun, basic meaning is the same)",0,0,1,0.0,1.0
+having-control-or-force-is-up;-being-subject-to-control-or-force-is-down,He fell from power.,['fell'],"- He: NO (pronoun, basic meaning is the same)
+- fell: YES (verb, more basic meaning refers to physically dropping or descending)
+- from: NO (preposition, basic meaning is the same)
+- power: YES (noun, more basic meaning refers to physical strength or energy)",1,1,1,1.0,1.0
+happy-is-up;-sad-is-down,I'm depressed.,['depressed'],"- I: NO (pronoun, basic meaning is the same)
+- 'm: NO (contraction of ""am"", basic meaning is the same)
+- depressed: YES (adjective, more basic meaning refers to a physical state of being pressed down or a lower position)",1,1,0,,
+love-is-a-patient,This is a sick relationship.,['sick'],"""This is a sick relationship.""
+- This: NO (pronoun, basic meaning is the same)
+- is: NO (verb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- sick: YES (adjective, more basic meaning refers to being physically ill)
+- relationship: NO (noun, basic meaning is the same)",1,1,0,,
+the-place-for-the-event,Remember the Alamo.,['the Alamo'],"- Remember: YES (verb, more basic meaning refers to recalling information or an event)
+- the: NO (definite article, basic meaning is the same)
+- Alamo: NO (proper noun, basic meaning is the same)",0,0,1,0.0,1.0
+visual-fields-are-containers,There's nothing in sight.,['nothing in'],"- There's: NO (contraction of ""there is,"" basic meaning is the same)
+- nothing: NO (pronoun, basic meaning is the same)
+- in: NO (preposition, basic meaning is the same)
+- sight: YES (noun, more basic meaning refers to the act of seeing or something that is seen)",0,0,1,0.0,1.0
+states-as-containers,He finally emerged from the catatonic state he had been in since the end of finals week.,"['emerged from', 'in']","- He: NO (pronoun, basic meaning is the same)
+- finally: NO (adverb, basic meaning is the same)
+- emerged: YES (verb, more basic meaning refers to coming out of something physically)
+- from: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- catatonic: YES (adjective, more basic meaning refers to a medical condition involving lack of movement)
+- state: YES (noun, more basic meaning refers to a condition or mode of being, often physical or geographical)
+- he: NO (pronoun, basic meaning is the same)
+- had: NO (verb, basic meaning is the same)
+- been: NO (verb, basic meaning is the same)
+- in: NO (preposition, basic meaning is the same)
+- since: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- end: NO (noun, basic meaning is the same)
+- of: NO (preposition, basic meaning is the same)
+- finals: YES (noun, more basic meaning refers to final exams)
+- week: NO (noun, basic meaning is the same)",0,0,1,0.0,1.0
+an-argument-is-a-container,Your argument won't hold water.,"[""won't hold water""]","""Your argument won't hold water.""
+- Your: NO (possessive pronoun, basic meaning is the same)
+- argument: NO (noun, basic meaning is the same)
+- won't: NO (contraction of ""will not,"" basic meaning is the same)
+- hold: YES (verb, more basic meaning refers to physically grasping or containing something)
+- water: YES (noun, more basic meaning refers to the liquid substance)",1,1,0,,
+the-part-for-the-whole,There are a lot of good heads in the university.,['good heads'],"- There: NO (adverb, basic meaning is the same)
+- are: NO (verb, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- lot: NO (noun, basic meaning is the same)
+- of: NO (preposition, basic meaning is the same)
+- good: NO (adjective, basic meaning is the same)
+- heads: YES (noun, more basic meaning refers to the physical part of the body)
+- in: NO (preposition, basic meaning is the same)
+- the: NO (article, basic meaning is the same)
+- university: NO (noun, basic meaning is the same)",1,1,0,,
+visual-fields-are-containers,That's in the center of my field of vision.,"['in', 'center', 'field']","- That's: NO (contraction of ""that is,"" basic meaning is the same)
+- in: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- center: YES (noun, more basic meaning refers to the middle point of a physical space)
+- of: NO (preposition, basic meaning is the same)
+- my: NO (possessive pronoun, basic meaning is the same)
+- field: YES (noun, more basic meaning refers to an open area of land)
+- of: NO (preposition, basic meaning is the same)
+- vision: NO (noun, basic meaning is the same)",0,0,1,,
+love-is-a-journey,Our marriage is on the rocks.,['on the rocks'],"- Our: NO (possessive pronoun, basic meaning is the same)
+- marriage: NO (noun, basic meaning is the same)
+- is: NO (verb, basic meaning is the same)
+- on: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- rocks: YES (noun, more basic meaning refers to solid mineral material)",1,1,0,,
+personification,This fact argues against the standard theories.,['fact argues'],"""This fact argues against the standard theories.""
+
+- This: NO (demonstrative pronoun, basic meaning is the same)
+- fact: NO (noun, basic meaning is the same)
+- argues: YES (verb, more basic meaning refers to making a case or reasoning in a discussion)
+- against: NO (preposition, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- standard: NO (adjective, basic meaning is the same)
+- theories: NO (noun, basic meaning is the same)",1,0,0,,
+life-is-a-gambling-game,I think we should stand pat.,['stand pat'],"""I think we should stand pat.""
+- I: NO (pronoun, basic meaning is the same)
+- think: NO (verb, basic meaning is the same)
+- we: NO (pronoun, basic meaning is the same)
+- should: NO (modal verb, basic meaning is the same)
+- stand: YES (verb, more basic meaning refers to being in an upright position on one's feet)
+- pat: YES (adjective, more basic meaning refers to a light touch or tap)",1,1,0,,
+activities-are-containers,How did you get into window-washing as a profession?,['get into'],"- How: NO (adverb, basic meaning is the same)
+- did: NO (auxiliary verb, basic meaning is the same)
+- you: NO (pronoun, basic meaning is the same)
+- get: YES (verb, more basic meaning refers to obtaining or receiving something)
+- into: NO (preposition, basic meaning is the same)
+- window-washing: NO (noun, basic meaning is the same)
+- as: NO (preposition, basic meaning is the same)
+- a: NO (article, basic meaning is the same)
+- profession: YES (noun, more basic meaning refers to a paid occupation, especially one that involves prolonged training and a formal qualification)",0,0,1,0.0,1.0
+argument-is-war,I've never won an argument with him.,['won'],"""I've never won an argument with him.""
+- I: NO (pronoun, basic meaning is the same)
+- 've: NO (contraction of ""have"", basic meaning is the same)
+- never: NO (adverb, basic meaning is the same)
+- won: YES (verb, more basic meaning refers to achieving victory in a contest or competition)
+- an: NO (indefinite article, basic meaning is the same)
+- argument: NO (noun, basic meaning is the same)
+- with: NO (preposition, basic meaning is the same)
+- him: NO (pronoun, basic meaning is the same)",1,1,0,,
+object-used-for-user,The sax has the flu today.,['sax'],"""The sax has the flu today.""
+
+- The: NO (definite article, basic meaning is the same)
+- sax: YES (noun, more basic meaning refers to a saxophone, a musical instrument)
+- has: NO (verb, basic meaning is the same)
+- the: NO (definite article, basic meaning is the same)
+- flu: NO (noun, basic meaning is the same)
+- today: NO (adverb, basic meaning is the same)",1,1,0,,
