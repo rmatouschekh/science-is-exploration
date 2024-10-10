@@ -1,2 +1,5 @@
-# science-is-exploration
-Data release for "SCIENCE IS EXPLORATION: Computational Frontiers for Conceptual Metaphor Theory" by Rebecca M. M. Hicke and Ross Deans Kristensen-McLachlan.
+# SCIENCE IS EXPLORATION: Computational Frontiers for Conceptual Metaphor Theory
+
+This respository contains the data releasted alongside the paper "SCIENCE IS EXPLORATION: Computational Frontiers for Conceptual Metaphor Theory" by Rebecca M. M. Hicke and Ross Deans Kristensen-McLachlan, published in the [CHR 2024 conference](https://2024.computational-humanities-research.org). 
+
+All data files are included in the `data` subfolder. The `MWLB.csv` file contains all 544 example sentences containing conceptual metaphors drawn from "Metaphors We Live By" by George Lakoff and Mark Johnson. The subsets marked as metaphorical by Lakoff and Johnson are marked in a separate column. All of the files with the prefix `annotated` contain the same 100 samples from the MWLB dataset with annotated output from the three GPT family models -- `gpt-4o`, `gpt-4-turbo`, and `gpt-3.5-turbo` -- and human annotations evaluating the outputs.
